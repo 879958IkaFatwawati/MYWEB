@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/879958IkaFatwawati/MYWEB/static/css/main.5f361e03.chunk.css",
+    "main.js": "/879958IkaFatwawati/MYWEB/static/js/main.c248b99c.chunk.js",
+    "main.js.map": "/879958IkaFatwawati/MYWEB/static/js/main.c248b99c.chunk.js.map",
+    "runtime-main.js": "/879958IkaFatwawati/MYWEB/static/js/runtime-main.04162727.js",
+    "runtime-main.js.map": "/879958IkaFatwawati/MYWEB/static/js/runtime-main.04162727.js.map",
+    "static/css/2.ddfeea0e.chunk.css": "/879958IkaFatwawati/MYWEB/static/css/2.ddfeea0e.chunk.css",
+    "static/js/2.f8e272bb.chunk.js": "/879958IkaFatwawati/MYWEB/static/js/2.f8e272bb.chunk.js",
+    "static/js/2.f8e272bb.chunk.js.map": "/879958IkaFatwawati/MYWEB/static/js/2.f8e272bb.chunk.js.map",
+    "index.html": "/879958IkaFatwawati/MYWEB/index.html",
+    "precache-manifest.6722be707eebaec8e08ebf749e03215b.js": "/879958IkaFatwawati/MYWEB/precache-manifest.6722be707eebaec8e08ebf749e03215b.js",
+    "service-worker.js": "/879958IkaFatwawati/MYWEB/service-worker.js",
+    "static/css/2.ddfeea0e.chunk.css.map": "/879958IkaFatwawati/MYWEB/static/css/2.ddfeea0e.chunk.css.map",
+    "static/css/main.5f361e03.chunk.css.map": "/879958IkaFatwawati/MYWEB/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.f8e272bb.chunk.js.LICENSE.txt": "/879958IkaFatwawati/MYWEB/static/js/2.f8e272bb.chunk.js.LICENSE.txt",
+    "static/media/semantic.min.css": "/879958IkaFatwawati/MYWEB/static/media/outline-icons.ef60a4f6.woff",
+    "static/media/logo.svg": "/879958IkaFatwawati/MYWEB/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.04162727.js",
+    "static/css/2.ddfeea0e.chunk.css",
+    "static/js/2.f8e272bb.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.c248b99c.chunk.js"
+  ]
+}
